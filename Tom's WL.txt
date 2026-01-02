@@ -14,16 +14,21 @@ dimwishlist:item=337893613&perks=102912326,4196156997
 dimwishlist:item=766122634&perks=1183436451,169755979
 
 
-// Permafrost - PF ()
-//notes: 3rd & 4th
-dimwishlist:item=2922964484&perks=1906147653,2078520142
-dimwishlist:item=2922964484&perks=1906147653,2675361166
-dimwishlist:item=2922964484&perks=1906147653,2422968039
+// Permafrost - PF (god-pve)
+//notes: 3rd & 4th tags:god-pve
+dimwishlist:item=2922964484&perks=
 
 
 // Uncivil Discourse - UD (god-pve)
 //notes: 3rd & 4th tags:god-pve
 dimwishlist:item=3146657389&perks=3198323828,3590359704
+
+
+// A Good Shout - GS (god-pve)
+//notes: 3rd & 4th tags:god-pve
+dimwishlist:item=3615748501&perks=2541826827,2216535938
+dimwishlist:item=3615748501&perks=2541826827,1926441324
+dimwishlist:item=3615748501&perks=2541826827,2813913866
 
 
 // Fimbulwinter Stitch - FS (god-pve)
@@ -42,5 +47,4 @@ dimwishlist:item=4069880346&perks=3422796781,598607952
 //notes: 3rd & 4th tags:god-pve
 dimwishlist:item=4118334987&perks=1926441324,2813913866
 dimwishlist:item=4118334987&perks=1926441324,639190697
-
 

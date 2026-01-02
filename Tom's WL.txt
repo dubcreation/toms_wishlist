@@ -1,0 +1,41 @@
+title:Tom's WL
+description:3rd & 4th
+
+// Qua Vinctus IV - QV (god-pve)
+//notes: 3rd & 4th tags:god-pve
+dimwishlist:item=337893613&perks=3422796781,3244229373
+dimwishlist:item=337893613&perks=3422796781,4196156997
+dimwishlist:item=337893613&perks=102912326,3244229373
+dimwishlist:item=337893613&perks=102912326,4196156997
+
+
+// Mistral Lift - ML (god-pve)
+//notes: 3rd & 4th tags:god-pve
+dimwishlist:item=766122634&perks=1183436451,169755979
+
+
+// Permafrost - PF ()
+//notes: 3rd & 4th
+dimwishlist:item=2922964484&perks=1906147653,2078520142
+dimwishlist:item=2922964484&perks=1906147653,2675361166
+dimwishlist:item=2922964484&perks=1906147653,2422968039
+
+
+// Fimbulwinter Stitch - FS (god-pve)
+//notes: 3rd & 4th tags:god-pve
+dimwishlist:item=3685829362&perks=2938480696,2923251173
+dimwishlist:item=3685829362&perks=2938480696,1720528630
+
+
+// Gizmo Weft - GW (god-pve)
+//notes: 3rd & 4th tags:god-pve
+dimwishlist:item=4069880346&perks=3422796781,102912326
+dimwishlist:item=4069880346&perks=3422796781,598607952
+
+
+// Mos Athanor IV - MA (god-pve)
+//notes: 3rd & 4th tags:god-pve
+dimwishlist:item=4118334987&perks=1926441324,2813913866
+dimwishlist:item=4118334987&perks=1926441324,639190697
+
+

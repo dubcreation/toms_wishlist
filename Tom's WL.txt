@@ -21,6 +21,11 @@ dimwishlist:item=2922964484&perks=1906147653,2675361166
 dimwishlist:item=2922964484&perks=1906147653,2422968039
 
 
+// Uncivil Discourse - UD (god-pve)
+//notes: 3rd & 4th tags:god-pve
+dimwishlist:item=3146657389&perks=3198323828,3590359704
+
+
 // Fimbulwinter Stitch - FS (god-pve)
 //notes: 3rd & 4th tags:god-pve
 dimwishlist:item=3685829362&perks=2938480696,2923251173

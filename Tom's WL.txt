@@ -37,6 +37,12 @@ dimwishlist:item=3685829362&perks=2938480696,2923251173
 dimwishlist:item=3685829362&perks=2938480696,1720528630
 
 
+// All or Nothing - AN (god-pve)
+//notes: 3rd & 4th tags:god-pve
+dimwishlist:item=3984776322&perks=3422796781,102912326
+dimwishlist:item=3984776322&perks=3422796781,3590359704
+
+
 // Gizmo Weft - GW (god-pve)
 //notes: 3rd & 4th tags:god-pve
 dimwishlist:item=4069880346&perks=3422796781,102912326

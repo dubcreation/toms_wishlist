@@ -30,6 +30,11 @@ dimwishlist:item=1419158093&perks=3060983774,1523649716
 dimwishlist:item=1763361847&perks=4223976499,2675184851
 
 
+// Haliaetus - HA (god-pve)
+//notes: 3rd & 4th tags:god-pve
+dimwishlist:item=2155534128&perks=2091001077,102912326
+
+
 // Compact Defender - CD (god-pve)
 //notes: 3rd & 4th tags:god-pve
 dimwishlist:item=2819552809&perks=1926441324,3590359704

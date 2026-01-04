@@ -1,6 +1,11 @@
 title:Tom's WL
 description:3rd & 4th
 
+// Mint Retrograde - MR (god-pve)
+//notes: 3rd & 4th tags:god-pve
+dimwishlist:item=42435996&perks=102912326,598607952
+
+
 // Qua Vinctus IV - QV (god-pve)
 //notes: 3rd & 4th tags:god-pve
 dimwishlist:item=337893613&perks=3422796781,3244229373

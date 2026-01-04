@@ -289,7 +289,14 @@
             "description": "",
             "hash": 2155534128,
             "name": "Haliaetus",
-            "plugs": [],
+            "plugs": [
+                [
+                    2091001077
+                ],
+                [
+                    102912326
+                ]
+            ],
             "tags": [
                 "GodPVE"
             ]

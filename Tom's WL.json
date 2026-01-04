@@ -1,104 +1,298 @@
-title:Tom's WL
-description:3rd & 4th
-
-// Mint Retrograde - MR (god-pve)
-//notes: 3rd & 4th tags:god-pve
-dimwishlist:item=42435996&perks=102912326,598607952
-
-
-// Qua Vinctus IV - QV (god-pve)
-//notes: 3rd & 4th tags:god-pve
-dimwishlist:item=337893613&perks=3422796781,3244229373
-dimwishlist:item=337893613&perks=3422796781,4196156997
-dimwishlist:item=337893613&perks=102912326,3244229373
-dimwishlist:item=337893613&perks=102912326,4196156997
-
-
-// Mistral Lift - ML (god-pve)
-//notes: 3rd & 4th tags:god-pve
-dimwishlist:item=766122634&perks=1183436451,169755979
-
-
-// M-17 "Fast Talker" - FT (god-pve,god-pvp)
-//notes: 3rd & 4th tags:god-pve,god-pvp
-dimwishlist:item=1419158093&perks=3060983774,2939589096
-dimwishlist:item=1419158093&perks=3060983774,1523649716
-
-
-// Evening SI4 - ES (god-pve)
-//notes: 3rd & 4th tags:god-pve
-dimwishlist:item=1763361847&perks=4223976499,2675184851
-
-
-// Haliaetus - HA (god-pve)
-//notes: 3rd & 4th tags:god-pve
-dimwishlist:item=2155534128&perks=2091001077,102912326
-
-
-// Compact Defender - CD (god-pve)
-//notes: 3rd & 4th tags:god-pve
-dimwishlist:item=2819552809&perks=1926441324,3590359704
-
-
-// Permafrost - PF (god-pve)
-//notes: 3rd & 4th tags:god-pve
-dimwishlist:item=2922964484&perks=
-
-
-// Modified B-7 Pistol - BP (god-pve)
-//notes: 3rd & 4th tags:god-pve
-dimwishlist:item=3146657388&perks=2617553311,1171887445
-dimwishlist:item=3146657388&perks=2617553311,2078520142
-
-
-// Uncivil Discourse - UD (god-pve)
-//notes: 3rd & 4th tags:god-pve
-dimwishlist:item=3146657389&perks=3198323828,3590359704
-
-
-// Something Something - SS (god-pve)
-//notes: 3rd & 4th tags:god-pve
-dimwishlist:item=3421075982&perks=3914874605,122204356
-
-
-// Psi Aeterna IV - PA (god-pve)
-//notes: 3rd & 4th tags:god-pve
-dimwishlist:item=3556730800&perks=1135494563,2422968039
-
-
-// A Good Shout - GS (god-pve)
-//notes: 3rd & 4th tags:god-pve
-dimwishlist:item=3615748501&perks=2541826827,2216535938
-dimwishlist:item=3615748501&perks=2541826827,1926441324
-dimwishlist:item=3615748501&perks=2541826827,2813913866
-
-
-// Refurbished A499 - RA (god-pve)
-//notes: 3rd & 4th tags:god-pve
-dimwishlist:item=3661051060&perks=3914874605,2138673996
-
-
-// Fimbulwinter Stitch - FS (god-pve)
-//notes: 3rd & 4th tags:god-pve
-dimwishlist:item=3685829362&perks=2938480696,2923251173
-dimwishlist:item=3685829362&perks=2938480696,1720528630
-
-
-// All or Nothing - AN (god-pve)
-//notes: 3rd & 4th tags:god-pve
-dimwishlist:item=3984776322&perks=3422796781,102912326
-dimwishlist:item=3984776322&perks=3422796781,3590359704
-
-
-// Gizmo Weft - GW (god-pve)
-//notes: 3rd & 4th tags:god-pve
-dimwishlist:item=4069880346&perks=3422796781,102912326
-dimwishlist:item=4069880346&perks=3422796781,598607952
-
-
-// Mos Athanor IV - MA (god-pve)
-//notes: 3rd & 4th tags:god-pve
-dimwishlist:item=4118334987&perks=1926441324,2813913866
-dimwishlist:item=4118334987&perks=1926441324,639190697
-
-
+{
+    "description": "3rd & 4th",
+    "name": "Tom's WL",
+    "data": [
+        {
+            "description": "",
+            "hash": 2922964484,
+            "name": "PF",
+            "plugs": [],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 766122634,
+            "name": "ML",
+            "plugs": [
+                [
+                    1183436451
+                ],
+                [
+                    169755979
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3685829362,
+            "name": "FS",
+            "plugs": [
+                [
+                    2938480696
+                ],
+                [
+                    2923251173,
+                    1720528630
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 4069880346,
+            "name": "GW",
+            "plugs": [
+                [
+                    3422796781
+                ],
+                [
+                    102912326,
+                    598607952
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 337893613,
+            "name": "QV",
+            "plugs": [
+                [
+                    3422796781,
+                    102912326
+                ],
+                [
+                    3244229373,
+                    4196156997
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 4118334987,
+            "name": "MA",
+            "plugs": [
+                [
+                    1926441324
+                ],
+                [
+                    2813913866,
+                    639190697
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3146657389,
+            "name": "UD",
+            "plugs": [
+                [
+                    3198323828
+                ],
+                [
+                    3590359704
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3615748501,
+            "name": "GS",
+            "plugs": [
+                [
+                    2541826827
+                ],
+                [
+                    2216535938,
+                    1926441324,
+                    2813913866
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3984776322,
+            "name": "AN",
+            "plugs": [
+                [
+                    3422796781
+                ],
+                [
+                    102912326,
+                    3590359704
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3146657388,
+            "name": "BP",
+            "plugs": [
+                [
+                    2617553311
+                ],
+                [
+                    1171887445,
+                    2078520142
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3421075982,
+            "name": "SS",
+            "plugs": [
+                [
+                    3914874605
+                ],
+                [
+                    122204356
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1419158093,
+            "name": "FT",
+            "plugs": [
+                [
+                    3060983774
+                ],
+                [
+                    2939589096,
+                    1523649716
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3661051060,
+            "name": "RA",
+            "plugs": [
+                [
+                    3914874605
+                ],
+                [
+                    2138673996
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2819552809,
+            "name": "CD",
+            "plugs": [
+                [
+                    1926441324
+                ],
+                [
+                    3590359704
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1763361847,
+            "name": "ES",
+            "plugs": [
+                [
+                    4223976499
+                ],
+                [
+                    2675184851
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 42435996,
+            "name": "MR",
+            "plugs": [
+                [
+                    102912326
+                ],
+                [
+                    598607952
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3556730800,
+            "name": "PA",
+            "plugs": [
+                [
+                    1135494563
+                ],
+                [
+                    2422968039
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2155534128,
+            "name": "HA",
+            "plugs": [
+                [
+                    2091001077
+                ],
+                [
+                    102912326
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        }
+    ]
+}

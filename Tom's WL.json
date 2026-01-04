@@ -364,6 +364,22 @@
             "tags": [
                 "GodPVE"
             ]
+        },
+        {
+            "description": "",
+            "hash": 337893613,
+            "name": "Qua Vinctus IV",
+            "plugs": [
+                [
+                    102912326
+                ],
+                [
+                    4196156997
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
         }
     ]
 }

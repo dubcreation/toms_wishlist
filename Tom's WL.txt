@@ -20,6 +20,16 @@ dimwishlist:item=1419158093&perks=3060983774,2939589096
 dimwishlist:item=1419158093&perks=3060983774,1523649716
 
 
+// Evening SI4 - ES (god-pve)
+//notes: 3rd & 4th tags:god-pve
+dimwishlist:item=1763361847&perks=4223976499,2675184851
+
+
+// Compact Defender - CD (god-pve)
+//notes: 3rd & 4th tags:god-pve
+dimwishlist:item=2819552809&perks=1926441324,3590359704
+
+
 // Permafrost - PF (god-pve)
 //notes: 3rd & 4th tags:god-pve
 dimwishlist:item=2922964484&perks=

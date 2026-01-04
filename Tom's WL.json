@@ -6,7 +6,14 @@
             "description": "",
             "hash": 2922964484,
             "name": "PF",
-            "plugs": [],
+            "plugs": [
+                [
+                    2617553311
+                ],
+                [
+                    2078520142
+                ]
+            ],
             "tags": [
                 "GodPVE"
             ]
@@ -250,7 +257,14 @@
             "description": "",
             "hash": 42435996,
             "name": "Mint Retrograde",
-            "plugs": [],
+            "plugs": [
+                [
+                    3422796781
+                ],
+                [
+                    102912326
+                ]
+            ],
             "tags": [
                 "GodPVE"
             ]

@@ -56,6 +56,11 @@ dimwishlist:item=3146657389&perks=3198323828,3590359704
 dimwishlist:item=3421075982&perks=3914874605,122204356
 
 
+// Psi Aeterna IV - PA (god-pve)
+//notes: 3rd & 4th tags:god-pve
+dimwishlist:item=3556730800&perks=1135494563,2422968039
+
+
 // A Good Shout - GS (god-pve)
 //notes: 3rd & 4th tags:god-pve
 dimwishlist:item=3615748501&perks=2541826827,2216535938

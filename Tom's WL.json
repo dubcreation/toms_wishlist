@@ -380,6 +380,22 @@
             "tags": [
                 "GodPVE"
             ]
+        },
+        {
+            "description": "",
+            "hash": 260532765,
+            "name": "Duty Bound",
+            "plugs": [
+                [
+                    3914874605
+                ],
+                [
+                    122204356
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
         }
     ]
 }

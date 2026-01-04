@@ -348,6 +348,22 @@
             "tags": [
                 "GodPVE"
             ]
+        },
+        {
+            "description": "",
+            "hash": 2875763009,
+            "name": "Nox Sidereal IV",
+            "plugs": [
+                [
+                    3563868667
+                ],
+                [
+                    254337357
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
         }
     ]
 }

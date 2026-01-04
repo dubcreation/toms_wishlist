@@ -249,15 +249,8 @@
         {
             "description": "",
             "hash": 42435996,
-            "name": "MR",
-            "plugs": [
-                [
-                    102912326
-                ],
-                [
-                    598607952
-                ]
-            ],
+            "name": "Mint Retrograde",
+            "plugs": [],
             "tags": [
                 "GodPVE"
             ]
@@ -281,15 +274,8 @@
         {
             "description": "",
             "hash": 2155534128,
-            "name": "HA",
-            "plugs": [
-                [
-                    2091001077
-                ],
-                [
-                    102912326
-                ]
-            ],
+            "name": "Haliaetus",
+            "plugs": [],
             "tags": [
                 "GodPVE"
             ]
@@ -304,6 +290,38 @@
                 ],
                 [
                     4196156997
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1685533876,
+            "name": "Motif-41",
+            "plugs": [
+                [
+                    3878366039
+                ],
+                [
+                    2675184851
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2344383760,
+            "name": "Eighty-Six",
+            "plugs": [
+                [
+                    3422796781
+                ],
+                [
+                    102912326
                 ]
             ],
             "tags": [

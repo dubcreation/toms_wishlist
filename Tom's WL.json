@@ -412,6 +412,22 @@
             "tags": [
                 "GodPVE"
             ]
+        },
+        {
+            "description": "",
+            "hash": 821154603,
+            "name": "Gnawing Hunger",
+            "plugs": [
+                [
+                    1820235745
+                ],
+                [
+                    1015611457
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
         }
     ]
 }

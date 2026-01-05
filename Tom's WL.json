@@ -396,6 +396,22 @@
             "tags": [
                 "GodPVE"
             ]
+        },
+        {
+            "description": "",
+            "hash": 1354727549,
+            "name": "The Slammer (Adept)",
+            "plugs": [
+                [
+                    598607952
+                ],
+                [
+                    405677814
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
         }
     ]
 }

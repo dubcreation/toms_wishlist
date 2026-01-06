@@ -476,6 +476,22 @@
             "tags": [
                 "GodPVE"
             ]
+        },
+        {
+            "description": "",
+            "hash": 3201200906,
+            "name": "Monody-44",
+            "plugs": [
+                [
+                    4245865861
+                ],
+                [
+                    1926441324
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
         }
     ]
 }

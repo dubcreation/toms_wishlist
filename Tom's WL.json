@@ -444,6 +444,38 @@
             "tags": [
                 "GodPVE"
             ]
+        },
+        {
+            "description": "",
+            "hash": 2850664015,
+            "name": "Trust",
+            "plugs": [
+                [
+                    573122728
+                ],
+                [
+                    64866129
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3504336176,
+            "name": "Night Watch",
+            "plugs": [
+                [
+                    247725512
+                ],
+                [
+                    3425386926
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
         }
     ]
 }

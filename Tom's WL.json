@@ -492,6 +492,22 @@
             "tags": [
                 "GodPVE"
             ]
+        },
+        {
+            "description": "",
+            "hash": 3576134513,
+            "name": "Ribbontail",
+            "plugs": [
+                [
+                    4245865861
+                ],
+                [
+                    222783511
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
         }
     ]
 }

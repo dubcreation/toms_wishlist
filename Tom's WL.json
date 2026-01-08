@@ -508,6 +508,70 @@
             "tags": [
                 "GodPVE"
             ]
+        },
+        {
+            "description": "",
+            "hash": 190747610,
+            "name": "Qua Nilus II",
+            "plugs": [
+                [
+                    3422796781
+                ],
+                [
+                    102912326
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1674692344,
+            "name": "Sublimation",
+            "plugs": [
+                [
+                    2785334058
+                ],
+                [
+                    1720528630
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 4146673634,
+            "name": "Outrageous Fortune",
+            "plugs": [
+                [
+                    2675184851
+                ],
+                [
+                    598607952
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3524386983,
+            "name": "Submersion",
+            "plugs": [
+                [
+                    3878366039
+                ],
+                [
+                    344235611
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
         }
     ]
 }

@@ -572,6 +572,38 @@
             "tags": [
                 "GodPVE"
             ]
+        },
+        {
+            "description": "",
+            "hash": 3201200906,
+            "name": "Monody-44",
+            "plugs": [
+                [
+                    2541826827
+                ],
+                [
+                    1926441324
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 827835657,
+            "name": "Horror's Least",
+            "plugs": [
+                [
+                    2682205016
+                ],
+                [
+                    288411554
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
         }
     ]
 }

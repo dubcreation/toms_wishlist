@@ -775,6 +775,54 @@
             "tags": [
                 "GodPVE"
             ]
+        },
+        {
+            "description": "",
+            "hash": 4049127142,
+            "name": "Returned Memory",
+            "plugs": [
+                [
+                    1135494563
+                ],
+                [
+                    2799030358
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3946054154,
+            "name": "MIDA Mini-Tool",
+            "plugs": [
+                [
+                    2014892510
+                ],
+                [
+                    3007133316
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3496887154,
+            "name": "Phoneutria Fera",
+            "plugs": [
+                [
+                    4175584682
+                ],
+                [
+                    3007133316
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
         }
     ]
 }

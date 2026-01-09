@@ -37,13 +37,12 @@
         {
             "description": "",
             "hash": 3685829362,
-            "name": "FS",
+            "name": "Fimbulwinter Stitch",
             "plugs": [
                 [
                     2938480696
                 ],
                 [
-                    2923251173,
                     1720528630
                 ]
             ],
@@ -89,14 +88,13 @@
         {
             "description": "",
             "hash": 4118334987,
-            "name": "MA",
+            "name": "Mos Athanor IV",
             "plugs": [
                 [
                     1926441324
                 ],
                 [
-                    2813913866,
-                    639190697
+                    2813913866
                 ]
             ],
             "tags": [
@@ -122,15 +120,13 @@
         {
             "description": "",
             "hash": 3615748501,
-            "name": "GS",
+            "name": "A Good Shout",
             "plugs": [
                 [
                     2541826827
                 ],
                 [
-                    2216535938,
-                    1926441324,
-                    2813913866
+                    1926441324
                 ]
             ],
             "tags": [
@@ -157,14 +153,13 @@
         {
             "description": "",
             "hash": 3146657388,
-            "name": "BP",
+            "name": "Modified B-7 Pistol",
             "plugs": [
                 [
                     2617553311
                 ],
                 [
-                    1171887445,
-                    2078520142
+                    1171887445
                 ]
             ],
             "tags": [
@@ -224,7 +219,7 @@
         {
             "description": "",
             "hash": 2819552809,
-            "name": "CD",
+            "name": "Compact Defender",
             "plugs": [
                 [
                     1926441324
@@ -240,7 +235,7 @@
         {
             "description": "",
             "hash": 1763361847,
-            "name": "ES",
+            "name": "Evening SI4",
             "plugs": [
                 [
                     4223976499
@@ -454,7 +449,7 @@
                     573122728
                 ],
                 [
-                    64866129
+                    4290541820
                 ]
             ],
             "tags": [
@@ -615,6 +610,22 @@
                 ],
                 [
                     1167468626
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1402874079,
+            "name": "Hawthorne's Field-Forged Shotgun",
+            "plugs": [
+                [
+                    2073244114
+                ],
+                [
+                    344235611
                 ]
             ],
             "tags": [

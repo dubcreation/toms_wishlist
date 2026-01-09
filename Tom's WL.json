@@ -631,6 +631,22 @@
             "tags": [
                 "GodPVE"
             ]
+        },
+        {
+            "description": "",
+            "hash": 1197073834,
+            "name": "Forced Memorializer",
+            "plugs": [
+                [
+                    2073244114
+                ],
+                [
+                    3416609154
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
         }
     ]
 }

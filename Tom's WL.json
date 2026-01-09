@@ -647,6 +647,54 @@
             "tags": [
                 "GodPVP"
             ]
+        },
+        {
+            "description": "",
+            "hash": 2297554989,
+            "name": "Riptide",
+            "plugs": [
+                [
+                    4245865861
+                ],
+                [
+                    2078520142
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3620277039,
+            "name": "Peculiar Charm",
+            "plugs": [
+                [
+                    1011551830
+                ],
+                [
+                    3251326479
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 4077196130,
+            "name": "Trust S4",
+            "plugs": [
+                [
+                    3400784728
+                ],
+                [
+                    247725512
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
         }
     ]
 }

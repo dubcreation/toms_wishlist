@@ -695,6 +695,70 @@
             "tags": [
                 "GodPVE"
             ]
+        },
+        {
+            "description": "",
+            "hash": 3431536253,
+            "name": "Gunburn",
+            "plugs": [
+                [
+                    3914874605
+                ],
+                [
+                    1549370717
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 970034755,
+            "name": "Giver's Blessing",
+            "plugs": [
+                [
+                    1563455254
+                ],
+                [
+                    2889515627
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2838279629,
+            "name": "Mercury-A",
+            "plugs": [
+                [
+                    617966211
+                ],
+                [
+                    1549370717
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 4090134063,
+            "name": "Jurisprudent",
+            "plugs": [
+                [
+                    2617553311
+                ],
+                [
+                    1171887445
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
         }
     ]
 }

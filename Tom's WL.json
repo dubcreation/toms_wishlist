@@ -759,6 +759,22 @@
             "tags": [
                 "GodPVE"
             ]
+        },
+        {
+            "description": "",
+            "hash": 1242785638,
+            "name": "Sarpedon-D",
+            "plugs": [
+                [
+                    511499160
+                ],
+                [
+                    2633604463
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
         }
     ]
 }

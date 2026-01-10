@@ -822,6 +822,22 @@
             "tags": [
                 "GodPVE"
             ]
+        },
+        {
+            "description": "",
+            "hash": 3813721211,
+            "name": "Last Thursday",
+            "plugs": [
+                [
+                    4245865861
+                ],
+                [
+                    102912326
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
         }
     ]
 }

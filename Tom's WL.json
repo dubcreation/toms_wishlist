@@ -52,24 +52,6 @@
         },
         {
             "description": "",
-            "hash": 337893613,
-            "name": "QV",
-            "plugs": [
-                [
-                    3422796781,
-                    102912326
-                ],
-                [
-                    3244229373,
-                    4196156997
-                ]
-            ],
-            "tags": [
-                "GodPVE"
-            ]
-        },
-        {
-            "description": "",
             "hash": 4118334987,
             "name": "Mos Athanor IV",
             "plugs": [
@@ -119,14 +101,13 @@
         {
             "description": "",
             "hash": 3984776322,
-            "name": "AN",
+            "name": "All or Nothing",
             "plugs": [
                 [
                     3422796781
                 ],
                 [
-                    102912326,
-                    3590359704
+                    102912326
                 ]
             ],
             "tags": [
@@ -168,13 +149,12 @@
         {
             "description": "",
             "hash": 1419158093,
-            "name": "FT",
+            "name": "M-17 \"Fast Talker\"",
             "plugs": [
                 [
                     3060983774
                 ],
                 [
-                    2939589096,
                     1523649716
                 ]
             ],

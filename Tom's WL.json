@@ -843,6 +843,54 @@
             "tags": [
                 "GodPVE"
             ]
+        },
+        {
+            "description": "",
+            "hash": 71057630,
+            "name": "Voltaic Shade",
+            "plugs": [
+                [
+                    717070634
+                ],
+                [
+                    1720528630
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1411560894,
+            "name": "Ahab Char",
+            "plugs": [
+                [
+                    4223976499
+                ],
+                [
+                    2923251173
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1079872540,
+            "name": "Ulterior Observation",
+            "plugs": [
+                [
+                    1171887445
+                ],
+                [
+                    2617553311
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
         }
     ]
 }

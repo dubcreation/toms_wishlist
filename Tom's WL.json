@@ -923,6 +923,38 @@
             "tags": [
                 "GodPVE"
             ]
+        },
+        {
+            "description": "",
+            "hash": 3481382332,
+            "name": "King Orfeo",
+            "plugs": [
+                [
+                    1551736345
+                ],
+                [
+                    169755979
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2246386812,
+            "name": "The Heron",
+            "plugs": [
+                [
+                    2541826827
+                ],
+                [
+                    1926441324
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
         }
     ]
 }

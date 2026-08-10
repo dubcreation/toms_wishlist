@@ -1035,6 +1035,22 @@
             "tags": [
                 "GodPVE"
             ]
+        },
+        {
+            "description": "",
+            "hash": 1850748385,
+            "name": "DECATUR 02",
+            "plugs": [
+                [
+                    2078520142
+                ],
+                [
+                    4196156997
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
         }
     ]
 }

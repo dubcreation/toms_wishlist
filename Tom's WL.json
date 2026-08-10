@@ -987,6 +987,22 @@
             "tags": [
                 "GodPVP"
             ]
+        },
+        {
+            "description": "",
+            "hash": 496728945,
+            "name": "Bold Endings",
+            "plugs": [
+                [
+                    1171887445
+                ],
+                [
+                    169755979
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
         }
     ]
 }

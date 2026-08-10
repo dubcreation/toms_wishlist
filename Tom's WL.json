@@ -1003,6 +1003,22 @@
             "tags": [
                 "GodPVE"
             ]
+        },
+        {
+            "description": "",
+            "hash": 2819552809,
+            "name": "Compact Defender",
+            "plugs": [
+                [
+                    509594246
+                ],
+                [
+                    3007133316
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
         }
     ]
 }

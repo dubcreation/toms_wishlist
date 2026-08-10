@@ -1067,6 +1067,22 @@
             "tags": [
                 "GodPVE"
             ]
+        },
+        {
+            "description": "",
+            "hash": 2187337757,
+            "name": "Arctic Haze",
+            "plugs": [
+                [
+                    2675184851
+                ],
+                [
+                    3581929919
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
         }
     ]
 }

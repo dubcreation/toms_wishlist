@@ -955,6 +955,38 @@
             "tags": [
                 "GodPVE"
             ]
+        },
+        {
+            "description": "",
+            "hash": 52683113,
+            "name": "Blast Furnace",
+            "plugs": [
+                [
+                    1549370717
+                ],
+                [
+                    1183436451
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 771811871,
+            "name": "Chroma Rush",
+            "plugs": [
+                [
+                    3060983774
+                ],
+                [
+                    2939589096
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
         }
     ]
 }

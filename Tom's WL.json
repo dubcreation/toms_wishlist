@@ -1019,6 +1019,22 @@
             "tags": [
                 "GodPVP"
             ]
+        },
+        {
+            "description": "",
+            "hash": 736362511,
+            "name": "Red Tape",
+            "plugs": [
+                [
+                    1906147653
+                ],
+                [
+                    1171887445
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
         }
     ]
 }

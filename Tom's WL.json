@@ -1115,6 +1115,22 @@
             "tags": [
                 "GodPVE"
             ]
+        },
+        {
+            "description": "",
+            "hash": 3667861447,
+            "name": "Convened Recurve",
+            "plugs": [
+                [
+                    617966211
+                ],
+                [
+                    2216535938
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
         }
     ]
 }

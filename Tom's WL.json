@@ -1163,6 +1163,86 @@
             "tags": [
                 "GodPVE"
             ]
+        },
+        {
+            "description": "",
+            "hash": 3176697589,
+            "name": "Gridskipper",
+            "plugs": [
+                [
+                    2073244114
+                ],
+                [
+                    4045335048
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3176697588,
+            "name": "Infinite Paths 8",
+            "plugs": [
+                [
+                    169755979
+                ],
+                [
+                    1720528630
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3961462214,
+            "name": "Kindled Orchid",
+            "plugs": [
+                [
+                    2923251173
+                ],
+                [
+                    288411554
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 924095500,
+            "name": "Lotus-Eater",
+            "plugs": [
+                [
+                    461595545
+                ],
+                [
+                    1926441324
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3625635456,
+            "name": "Positive Outlook",
+            "plugs": [
+                [
+                    4245865861
+                ],
+                [
+                    169755979
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
         }
     ]
 }

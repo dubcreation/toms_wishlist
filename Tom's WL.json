@@ -1243,6 +1243,38 @@
             "tags": [
                 "GodPVE"
             ]
+        },
+        {
+            "description": "",
+            "hash": 2452936817,
+            "name": "VS Chill Inhibitor",
+            "plugs": [
+                [
+                    344235611
+                ],
+                [
+                    3192447905
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 938936806,
+            "name": "Chivalric Fire",
+            "plugs": [
+                [
+                    4085959009
+                ],
+                [
+                    147913470
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
         }
     ]
 }

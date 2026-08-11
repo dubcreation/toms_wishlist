@@ -1099,6 +1099,22 @@
             "tags": [
                 "GodPVP"
             ]
+        },
+        {
+            "description": "",
+            "hash": 2560370239,
+            "name": "Seventh Seraph Carbine",
+            "plugs": [
+                [
+                    461595545
+                ],
+                [
+                    956288240
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
         }
     ]
 }

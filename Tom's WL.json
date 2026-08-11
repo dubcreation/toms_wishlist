@@ -1131,6 +1131,22 @@
             "tags": [
                 "GodPVE"
             ]
+        },
+        {
+            "description": "",
+            "hash": 4046741099,
+            "name": "Main Ingredient",
+            "plugs": [
+                [
+                    2717805783
+                ],
+                [
+                    1523649716
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
         }
     ]
 }

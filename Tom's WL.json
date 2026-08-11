@@ -1275,6 +1275,22 @@
             "tags": [
                 "GodPVE"
             ]
+        },
+        {
+            "description": "",
+            "hash": 3156551030,
+            "name": "Patron of Lost Causes",
+            "plugs": [
+                [
+                    573122728
+                ],
+                [
+                    332733060
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
         }
     ]
 }

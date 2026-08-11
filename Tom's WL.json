@@ -1083,6 +1083,22 @@
             "tags": [
                 "GodPVE"
             ]
+        },
+        {
+            "description": "",
+            "hash": 1957301533,
+            "name": "Nameless Midnight",
+            "plugs": [
+                [
+                    3974407819
+                ],
+                [
+                    4045335048
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
         }
     ]
 }

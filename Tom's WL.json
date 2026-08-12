@@ -1403,6 +1403,22 @@
             "tags": [
                 "GodPVE"
             ]
+        },
+        {
+            "description": "",
+            "hash": 358190158,
+            "name": "Drang",
+            "plugs": [
+                [
+                    2717805783
+                ],
+                [
+                    3719974635
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
         }
     ]
 }

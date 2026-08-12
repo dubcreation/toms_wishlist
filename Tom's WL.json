@@ -1307,6 +1307,22 @@
             "tags": [
                 "GodPVE"
             ]
+        },
+        {
+            "description": "",
+            "hash": 3326135421,
+            "name": "The Ringing Nail",
+            "plugs": [
+                [
+                    169755979
+                ],
+                [
+                    1183436451
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
         }
     ]
 }

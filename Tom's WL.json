@@ -1291,6 +1291,22 @@
             "tags": [
                 "GodPVE"
             ]
+        },
+        {
+            "description": "",
+            "hash": 2041617874,
+            "name": "IRONWOOD 03",
+            "plugs": [
+                [
+                    1906147653
+                ],
+                [
+                    1961144892
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
         }
     ]
 }

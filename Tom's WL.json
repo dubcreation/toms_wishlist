@@ -1339,6 +1339,22 @@
             "tags": [
                 "GodPVP"
             ]
+        },
+        {
+            "description": "",
+            "hash": 1225851434,
+            "name": "TAHOMA 01",
+            "plugs": [
+                [
+                    102912326
+                ],
+                [
+                    254337357
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
         }
     ]
 }

@@ -1323,6 +1323,22 @@
             "tags": [
                 "GodPVE"
             ]
+        },
+        {
+            "description": "",
+            "hash": 2490460292,
+            "name": "Stryker's Sure-Hand",
+            "plugs": [
+                [
+                    3678483220
+                ],
+                [
+                    147913470
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
         }
     ]
 }

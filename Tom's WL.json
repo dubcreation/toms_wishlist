@@ -1355,6 +1355,54 @@
             "tags": [
                 "GodPVE"
             ]
+        },
+        {
+            "description": "",
+            "hash": 1120206506,
+            "name": "DIABLERETS 06",
+            "plugs": [
+                [
+                    102912326
+                ],
+                [
+                    4196156997
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 423677697,
+            "name": "ALLEN 05",
+            "plugs": [
+                [
+                    2073244114
+                ],
+                [
+                    2260261934
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 822872238,
+            "name": "DEADHORSE 04",
+            "plugs": [
+                [
+                    2617553311
+                ],
+                [
+                    2078520142
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
         }
     ]
 }

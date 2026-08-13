@@ -1419,6 +1419,22 @@
             "tags": [
                 "GodPVP"
             ]
+        },
+        {
+            "description": "",
+            "hash": 810474118,
+            "name": "Trust",
+            "plugs": [
+                [
+                    1183436451
+                ],
+                [
+                    2675184851
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
         }
     ]
 }

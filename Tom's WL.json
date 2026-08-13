@@ -1435,6 +1435,102 @@
             "tags": [
                 "GodPVE"
             ]
+        },
+        {
+            "description": "",
+            "hash": 771811870,
+            "name": "Steelfeather Repeater",
+            "plugs": [
+                [
+                    4245865861
+                ],
+                [
+                    3418165135
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 4113452819,
+            "name": "Fair Judgment",
+            "plugs": [
+                [
+                    2617553311
+                ],
+                [
+                    1171887445
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2662459958,
+            "name": "High Albedo",
+            "plugs": [
+                [
+                    3914874605
+                ],
+                [
+                    1549370717
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2776506837,
+            "name": "Inbound Surveillance",
+            "plugs": [
+                [
+                    3198323828
+                ],
+                [
+                    3007133316
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 34731066,
+            "name": "Nightshade",
+            "plugs": [
+                [
+                    3422796781
+                ],
+                [
+                    102912326
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3490736392,
+            "name": "Seventh Seraph Officer Revolver",
+            "plugs": [
+                [
+                    461595545
+                ],
+                [
+                    2562668800
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
         }
     ]
 }

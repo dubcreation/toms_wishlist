@@ -1150,22 +1150,6 @@
         },
         {
             "description": "",
-            "hash": 3485029080,
-            "name": "Adamantite (Adept)",
-            "plugs": [
-                [
-                    3422796781
-                ],
-                [
-                    102912326
-                ]
-            ],
-            "tags": [
-                "GodPVE"
-            ]
-        },
-        {
-            "description": "",
             "hash": 3176697589,
             "name": "Gridskipper",
             "plugs": [
@@ -1542,6 +1526,166 @@
                 ],
                 [
                     717070634
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1769847435,
+            "name": "A Distant Pull",
+            "plugs": [
+                [
+                    3198323828
+                ],
+                [
+                    1171887445
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3485029080,
+            "name": "Adamantite (Adept)",
+            "plugs": [
+                [
+                    4245865861
+                ],
+                [
+                    102912326
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3110377595,
+            "name": "Autumn Wind",
+            "plugs": [
+                [
+                    509594246
+                ],
+                [
+                    288411554
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2485400469,
+            "name": "Biting Winds",
+            "plugs": [
+                [
+                    3523746922
+                ],
+                [
+                    2799030358
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1884897339,
+            "name": "Lethal Abundance",
+            "plugs": [
+                [
+                    3244229373
+                ],
+                [
+                    102912326
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1884897338,
+            "name": "The Forward Path",
+            "plugs": [
+                [
+                    1906147653
+                ],
+                [
+                    102912326
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1291040554,
+            "name": "Brass Attacks",
+            "plugs": [
+                [
+                    4207509907
+                ],
+                [
+                    1926441324
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1681583613,
+            "name": "Ergo Sum",
+            "plugs": [
+                [
+                    3959569796
+                ],
+                [
+                    2338887882
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2150012406,
+            "name": "Joxer's Longsword",
+            "plugs": [
+                [
+                    2073244114
+                ],
+                [
+                    4045335048
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2370525224,
+            "name": "Reghusk's Pledge",
+            "plugs": [
+                [
+                    1926441324
+                ],
+                [
+                    4290541820
                 ]
             ],
             "tags": [

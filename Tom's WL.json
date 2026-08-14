@@ -1691,6 +1691,38 @@
             "tags": [
                 "GodPVE"
             ]
+        },
+        {
+            "description": "",
+            "hash": 2308010345,
+            "name": "Seventh Seraph CQC-12",
+            "plugs": [
+                [
+                    3143051906
+                ],
+                [
+                    598607952
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 453798564,
+            "name": "Seventh Seraph SI-2",
+            "plugs": [
+                [
+                    1906147653
+                ],
+                [
+                    4196156997
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
         }
     ]
 }

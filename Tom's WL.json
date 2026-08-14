@@ -1531,6 +1531,22 @@
             "tags": [
                 "GodPVE"
             ]
+        },
+        {
+            "description": "",
+            "hash": 38064944,
+            "name": "Arc Logic",
+            "plugs": [
+                [
+                    2633604463
+                ],
+                [
+                    717070634
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
         }
     ]
 }

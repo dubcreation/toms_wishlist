@@ -1723,6 +1723,38 @@
             "tags": [
                 "GodPVE"
             ]
+        },
+        {
+            "description": "",
+            "hash": 2531614757,
+            "name": "Tatara Gaze",
+            "plugs": [
+                [
+                    1563455254
+                ],
+                [
+                    2260261934
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3211332727,
+            "name": "A Fine Memorial",
+            "plugs": [
+                [
+                    2675361166
+                ],
+                [
+                    4196156997
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
         }
     ]
 }

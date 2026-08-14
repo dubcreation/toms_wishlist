@@ -1755,6 +1755,38 @@
             "tags": [
                 "GodPVE"
             ]
+        },
+        {
+            "description": "",
+            "hash": 3678653083,
+            "name": "Old Sterling",
+            "plugs": [
+                [
+                    2658083589
+                ],
+                [
+                    102912326
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3796682229,
+            "name": "Service Revolver",
+            "plugs": [
+                [
+                    1347741687
+                ],
+                [
+                    2260261934
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
         }
     ]
 }

@@ -1787,6 +1787,38 @@
             "tags": [
                 "GodPVE"
             ]
+        },
+        {
+            "description": "",
+            "hash": 3001598094,
+            "name": "21% Delirium",
+            "plugs": [
+                [
+                    461595545
+                ],
+                [
+                    717070634
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2584201248,
+            "name": "Seventh Seraph SAW",
+            "plugs": [
+                [
+                    461595545
+                ],
+                [
+                    4196156997
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
         }
     ]
 }

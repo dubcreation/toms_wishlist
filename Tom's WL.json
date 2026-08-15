@@ -1915,6 +1915,22 @@
             "tags": [
                 "GodPVE"
             ]
+        },
+        {
+            "description": "",
+            "hash": 2731922624,
+            "name": "Succession",
+            "plugs": [
+                [
+                    461595545
+                ],
+                [
+                    2260261934
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
         }
     ]
 }

@@ -1851,6 +1851,38 @@
             "tags": [
                 "GodPVE"
             ]
+        },
+        {
+            "description": "",
+            "hash": 1617917863,
+            "name": "Crimil's Dagger",
+            "plugs": [
+                [
+                    1183436451
+                ],
+                [
+                    2889515627
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1346714574,
+            "name": "Hammerhead",
+            "plugs": [
+                [
+                    1926441324
+                ],
+                [
+                    956288240
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
         }
     ]
 }

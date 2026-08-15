@@ -1899,6 +1899,22 @@
             "tags": [
                 "GodPVP"
             ]
+        },
+        {
+            "description": "",
+            "hash": 2111625436,
+            "name": "Aurora Dawn",
+            "plugs": [
+                [
+                    4183521337
+                ],
+                [
+                    147913470
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
         }
     ]
 }

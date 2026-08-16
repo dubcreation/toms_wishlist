@@ -1931,6 +1931,86 @@
             "tags": [
                 "GodPVE"
             ]
+        },
+        {
+            "description": "",
+            "hash": 1663482635,
+            "name": "",
+            "plugs": [
+                [
+                    509594246
+                ],
+                [
+                    4116820839
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3947966653,
+            "name": "The Call",
+            "plugs": [
+                [
+                    1135494563
+                ],
+                [
+                    2799030358
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1291040555,
+            "name": "Heliocentric QSc",
+            "plugs": [
+                [
+                    4223976499
+                ],
+                [
+                    2923251173
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1469372193,
+            "name": "Punching Out",
+            "plugs": [
+                [
+                    4245865861
+                ],
+                [
+                    4196156997
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3902351469,
+            "name": "The Keening",
+            "plugs": [
+                [
+                    1720528630
+                ],
+                [
+                    717070634
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
         }
     ]
 }

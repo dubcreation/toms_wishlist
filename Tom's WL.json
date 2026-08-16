@@ -2011,6 +2011,86 @@
             "tags": [
                 "GodPVE"
             ]
+        },
+        {
+            "description": "",
+            "hash": 1769847435,
+            "name": "A Distant Pull",
+            "plugs": [
+                [
+                    3198323828
+                ],
+                [
+                    4207509907
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 4059111041,
+            "name": "Better Devils",
+            "plugs": [
+                [
+                    2938480696
+                ],
+                [
+                    102912326
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 4236134153,
+            "name": "Hailing Confusion",
+            "plugs": [
+                [
+                    1171887445
+                ],
+                [
+                    2078520142
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2065366342,
+            "name": "Herod-C",
+            "plugs": [
+                [
+                    4245865861
+                ],
+                [
+                    1906147653
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 868076517,
+            "name": "Loud Lullaby",
+            "plugs": [
+                [
+                    1171887445
+                ],
+                [
+                    2078520142
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
         }
     ]
 }

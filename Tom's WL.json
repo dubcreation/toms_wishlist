@@ -2091,6 +2091,118 @@
             "tags": [
                 "GodPVE"
             ]
+        },
+        {
+            "description": "",
+            "hash": 2579239009,
+            "name": "Unending Tempest",
+            "plugs": [
+                [
+                    2014892510
+                ],
+                [
+                    1523649716
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3752860091,
+            "name": "Synchronic Roulette",
+            "plugs": [
+                [
+                    3060983774
+                ],
+                [
+                    102912326
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1719169808,
+            "name": "Seventh Seraph VY-7",
+            "plugs": [
+                [
+                    848860060
+                ],
+                [
+                    956288240
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1291270049,
+            "name": "Abide the Return",
+            "plugs": [
+                [
+                    2000295559
+                ],
+                [
+                    147913470
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 412265080,
+            "name": "Bellowing Giant",
+            "plugs": [
+                [
+                    406461158
+                ],
+                [
+                    2091001077
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3977827673,
+            "name": "Temptation's Hook",
+            "plugs": [
+                [
+                    984655331
+                ],
+                [
+                    3678483220
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2566169398,
+            "name": "Trophy Hunter",
+            "plugs": [
+                [
+                    4170193963
+                ],
+                [
+                    4116820839
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
         }
     ]
 }

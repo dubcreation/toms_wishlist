@@ -2203,6 +2203,86 @@
             "tags": [
                 "GodPVE"
             ]
+        },
+        {
+            "description": "",
+            "hash": 2729232863,
+            "name": "Night Terror",
+            "plugs": [
+                [
+                    1906147653
+                ],
+                [
+                    639190697
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 846241148,
+            "name": "Tranquility",
+            "plugs": [
+                [
+                    3914874605
+                ],
+                [
+                    4116820839
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 219610523,
+            "name": "Dream Breaker",
+            "plugs": [
+                [
+                    2675184851
+                ],
+                [
+                    3581929919
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1487476133,
+            "name": "Every Waking Moment",
+            "plugs": [
+                [
+                    509594246
+                ],
+                [
+                    2939589096
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2624561525,
+            "name": "Prolonged Engagement",
+            "plugs": [
+                [
+                    3060983774
+                ],
+                [
+                    1523649716
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
         }
     ]
 }

@@ -2283,6 +2283,70 @@
             "tags": [
                 "GodPVP"
             ]
+        },
+        {
+            "description": "",
+            "hash": 3638723317,
+            "name": "Hush",
+            "plugs": [
+                [
+                    3581929919
+                ],
+                [
+                    2675184851
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 4276696962,
+            "name": "Python",
+            "plugs": [
+                [
+                    536173722
+                ],
+                [
+                    2459015849
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1996201272,
+            "name": "Bad Omens",
+            "plugs": [
+                [
+                    406461158
+                ],
+                [
+                    2904194311
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3327901954,
+            "name": "Bug-Out Bag",
+            "plugs": [
+                [
+                    1906147653
+                ],
+                [
+                    1926441324
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
         }
     ]
 }

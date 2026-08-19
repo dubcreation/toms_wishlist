@@ -2347,6 +2347,54 @@
             "tags": [
                 "GodPVE"
             ]
+        },
+        {
+            "description": "",
+            "hash": 810474119,
+            "name": "Spare Rations",
+            "plugs": [
+                [
+                    1183436451
+                ],
+                [
+                    2799030358
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 713132408,
+            "name": "Doomsday",
+            "plugs": [
+                [
+                    3528046508
+                ],
+                [
+                    598607952
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2920648677,
+            "name": "Sole Survivor",
+            "plugs": [
+                [
+                    2785334058
+                ],
+                [
+                    1720528630
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
         }
     ]
 }

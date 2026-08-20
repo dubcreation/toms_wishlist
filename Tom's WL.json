@@ -2395,6 +2395,22 @@
             "tags": [
                 "GodPVE"
             ]
+        },
+        {
+            "description": "",
+            "hash": 3218302023,
+            "name": "Vouchsafe",
+            "plugs": [
+                [
+                    3198323828
+                ],
+                [
+                    169755979
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
         }
     ]
 }

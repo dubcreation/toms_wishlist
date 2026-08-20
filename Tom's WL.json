@@ -2418,10 +2418,58 @@
             "name": "Vulpecula",
             "plugs": [
                 [
-                    4245865861
+                    1171887445
                 ],
                 [
-                    2562668800
+                    2078520142
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2993995118,
+            "name": "Fractethyst",
+            "plugs": [
+                [
+                    424370782
+                ],
+                [
+                    598607952
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2966714447,
+            "name": "Canis Major",
+            "plugs": [
+                [
+                    2675184851
+                ],
+                [
+                    598607952
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1750388538,
+            "name": "Chrysura Melo",
+            "plugs": [
+                [
+                    717070634
+                ],
+                [
+                    1720528630
                 ]
             ],
             "tags": [

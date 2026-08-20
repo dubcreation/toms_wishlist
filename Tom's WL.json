@@ -2411,6 +2411,22 @@
             "tags": [
                 "GodPVE"
             ]
+        },
+        {
+            "description": "",
+            "hash": 3245446311,
+            "name": "Vulpecula",
+            "plugs": [
+                [
+                    1171887445
+                ],
+                [
+                    2078520142
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
         }
     ]
 }

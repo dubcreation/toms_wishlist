@@ -2398,22 +2398,6 @@
         },
         {
             "description": "",
-            "hash": 3218302023,
-            "name": "Vouchsafe",
-            "plugs": [
-                [
-                    3198323828
-                ],
-                [
-                    169755979
-                ]
-            ],
-            "tags": [
-                "GodPVE"
-            ]
-        },
-        {
-            "description": "",
             "hash": 3245446311,
             "name": "Vulpecula",
             "plugs": [
@@ -2470,6 +2454,102 @@
                 ],
                 [
                     1720528630
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3442151842,
+            "name": "Retold Tale",
+            "plugs": [
+                [
+                    2073244114
+                ],
+                [
+                    2923251173
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1738552769,
+            "name": "Sleepless",
+            "plugs": [
+                [
+                    406461158
+                ],
+                [
+                    2282937672
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1709137958,
+            "name": "Tigerspite",
+            "plugs": [
+                [
+                    4245865861
+                ],
+                [
+                    2923251173
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 268357178,
+            "name": "Twilight Oath",
+            "plugs": [
+                [
+                    2073244114
+                ],
+                [
+                    23371658
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3218302023,
+            "name": "Vouchsafe",
+            "plugs": [
+                [
+                    3198323828
+                ],
+                [
+                    169755979
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1727550459,
+            "name": "Waking Vigil",
+            "plugs": [
+                [
+                    1347741687
+                ],
+                [
+                    2923251173
                 ]
             ],
             "tags": [

@@ -2555,6 +2555,54 @@
             "tags": [
                 "GodPVE"
             ]
+        },
+        {
+            "description": "",
+            "hash": 2203881482,
+            "name": "Pluperfect",
+            "plugs": [
+                [
+                    1906147653
+                ],
+                [
+                    2422968039
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 4108648762,
+            "name": "Perfect Paradox",
+            "plugs": [
+                [
+                    494941759
+                ],
+                [
+                    788178929
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 4176824345,
+            "name": "Randy's Throwing Knife",
+            "plugs": [
+                [
+                    2073244114
+                ],
+                [
+                    23371658
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
         }
     ]
 }

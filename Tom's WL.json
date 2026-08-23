@@ -2603,6 +2603,38 @@
             "tags": [
                 "GodPVP"
             ]
+        },
+        {
+            "description": "",
+            "hash": 214545213,
+            "name": "Gnawing Hunger",
+            "plugs": [
+                [
+                    1906147653
+                ],
+                [
+                    1926441324
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2130249527,
+            "name": "Death Adder",
+            "plugs": [
+                [
+                    4223976499
+                ],
+                [
+                    169755979
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
         }
     ]
 }

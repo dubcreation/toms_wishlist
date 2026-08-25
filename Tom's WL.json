@@ -2619,6 +2619,38 @@
             "tags": [
                 "GodPVE"
             ]
+        },
+        {
+            "description": "",
+            "hash": 2204165992,
+            "name": "The Time-Worn Spire",
+            "plugs": [
+                [
+                    2073244114
+                ],
+                [
+                    4045335048
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 218787951,
+            "name": "Gunnora's Axe",
+            "plugs": [
+                [
+                    494941759
+                ],
+                [
+                    1370847713
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
         }
     ]
 }

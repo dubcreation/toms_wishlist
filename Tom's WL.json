@@ -2651,6 +2651,22 @@
             "tags": [
                 "GodPVP"
             ]
+        },
+        {
+            "description": "",
+            "hash": 1094998581,
+            "name": "The Spiteful Fang",
+            "plugs": [
+                [
+                    617966211
+                ],
+                [
+                    4290541820
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
         }
     ]
 }

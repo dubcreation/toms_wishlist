@@ -2683,6 +2683,70 @@
             "tags": [
                 "GodPVE"
             ]
+        },
+        {
+            "description": "",
+            "hash": 621450049,
+            "name": "Adamantite",
+            "plugs": [
+                [
+                    4070834277
+                ],
+                [
+                    674546187
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1541324871,
+            "name": "Refusal of the Call",
+            "plugs": [
+                [
+                    598607952
+                ],
+                [
+                    639190697
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 4147428506,
+            "name": "Eyes Unveiled",
+            "plugs": [
+                [
+                    848860060
+                ],
+                [
+                    332733060
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1835232052,
+            "name": "Psychopomp",
+            "plugs": [
+                [
+                    2633604463
+                ],
+                [
+                    1720528630
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
         }
     ]
 }

@@ -2747,6 +2747,102 @@
             "tags": [
                 "GodPVE"
             ]
+        },
+        {
+            "description": "",
+            "hash": 2527058296,
+            "name": "One Small Step",
+            "plugs": [
+                [
+                    3528046508
+                ],
+                [
+                    2799030358
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1969802090,
+            "name": "Premonition",
+            "plugs": [
+                [
+                    1183436451
+                ],
+                [
+                    4196156997
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2136808079,
+            "name": "Heretic",
+            "plugs": [
+                [
+                    2091001077
+                ],
+                [
+                    2422968039
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2527058297,
+            "name": "Blasphemer",
+            "plugs": [
+                [
+                    1961144892
+                ],
+                [
+                    1370847713
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 846241149,
+            "name": "Apostate",
+            "plugs": [
+                [
+                    2216535938
+                ],
+                [
+                    4196156997
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3482299617,
+            "name": "Love and Death",
+            "plugs": [
+                [
+                    2675184851
+                ],
+                [
+                    598607952
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
         }
     ]
 }

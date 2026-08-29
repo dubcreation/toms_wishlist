@@ -2843,6 +2843,22 @@
             "tags": [
                 "GodPVE"
             ]
+        },
+        {
+            "description": "",
+            "hash": 3273807888,
+            "name": "Resounding",
+            "plugs": [
+                [
+                    1171147302
+                ],
+                [
+                    288411554
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
         }
     ]
 }

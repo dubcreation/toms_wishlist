@@ -2859,6 +2859,102 @@
             "tags": [
                 "GodPVE"
             ]
+        },
+        {
+            "description": "",
+            "hash": 2203881482,
+            "name": "Pluperfect",
+            "plugs": [
+                [
+                    1906147653
+                ],
+                [
+                    288411554
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3161496501,
+            "name": "Pyroclastic Flow",
+            "plugs": [
+                [
+                    3528046508
+                ],
+                [
+                    1906147653
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3132669561,
+            "name": "Temporal Clause",
+            "plugs": [
+                [
+                    848860060
+                ],
+                [
+                    2939589096
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1517780158,
+            "name": "The Deicide",
+            "plugs": [
+                [
+                    3143051906
+                ],
+                [
+                    1720528630
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2566169398,
+            "name": "Trophy Hunter",
+            "plugs": [
+                [
+                    3528046508
+                ],
+                [
+                    2216535938
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 960948343,
+            "name": "True Prophecy",
+            "plugs": [
+                [
+                    509594246
+                ],
+                [
+                    64866129
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
         }
     ]
 }

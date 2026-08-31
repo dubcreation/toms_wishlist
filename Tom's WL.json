@@ -2955,6 +2955,54 @@
             "tags": [
                 "GodPVP"
             ]
+        },
+        {
+            "description": "",
+            "hash": 247984829,
+            "name": "Peacebond",
+            "plugs": [
+                [
+                    1171887445
+                ],
+                [
+                    2617553311
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 247984828,
+            "name": "Tinasha's Mastery",
+            "plugs": [
+                [
+                    2167611941
+                ],
+                [
+                    344235611
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2881109029,
+            "name": "Roar of the Bear",
+            "plugs": [
+                [
+                    406461158
+                ],
+                [
+                    598607952
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
         }
     ]
 }

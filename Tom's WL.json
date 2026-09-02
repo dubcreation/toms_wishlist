@@ -3003,6 +3003,38 @@
             "tags": [
                 "GodPVE"
             ]
+        },
+        {
+            "description": "",
+            "hash": 1271275406,
+            "name": "No Feelings",
+            "plugs": [
+                [
+                    1720528630
+                ],
+                [
+                    288411554
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2528793321,
+            "name": "Circular Logic",
+            "plugs": [
+                [
+                    1183436451
+                ],
+                [
+                    102912326
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
         }
     ]
 }

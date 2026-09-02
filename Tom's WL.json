@@ -3035,6 +3035,22 @@
             "tags": [
                 "GodPVE"
             ]
+        },
+        {
+            "description": "",
+            "hash": 2274706510,
+            "name": "Tempered Dynamo",
+            "plugs": [
+                [
+                    2682205016
+                ],
+                [
+                    288411554
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
         }
     ]
 }

@@ -3051,6 +3051,38 @@
             "tags": [
                 "GodPVE"
             ]
+        },
+        {
+            "description": "",
+            "hash": 2150012407,
+            "name": "Autumn Wind",
+            "plugs": [
+                [
+                    2073244114
+                ],
+                [
+                    639190697
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3708636616,
+            "name": "Last Rite",
+            "plugs": [
+                [
+                    461595545
+                ],
+                [
+                    1183436451
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
         }
     ]
 }

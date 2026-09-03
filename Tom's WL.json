@@ -3083,6 +3083,22 @@
             "tags": [
                 "GodPVE"
             ]
+        },
+        {
+            "description": "",
+            "hash": 3026836571,
+            "name": "Multimach CCX",
+            "plugs": [
+                [
+                    509594246
+                ],
+                [
+                    1523649716
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
         }
     ]
 }

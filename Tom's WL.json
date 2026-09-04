@@ -3099,6 +3099,38 @@
             "tags": [
                 "GodPVP"
             ]
+        },
+        {
+            "description": "",
+            "hash": 2579239008,
+            "name": "Out of Bounds",
+            "plugs": [
+                [
+                    3060983774
+                ],
+                [
+                    1523649716
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2353274446,
+            "name": "Basso Ostinato",
+            "plugs": [
+                [
+                    1767911158
+                ],
+                [
+                    1926441324
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
         }
     ]
 }

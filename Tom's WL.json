@@ -3131,6 +3131,22 @@
             "tags": [
                 "GodPVE"
             ]
+        },
+        {
+            "description": "",
+            "hash": 218787950,
+            "name": "Felwinter's Lie",
+            "plugs": [
+                [
+                    2073244114
+                ],
+                [
+                    1370847713
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
         }
     ]
 }

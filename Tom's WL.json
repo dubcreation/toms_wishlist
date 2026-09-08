@@ -3259,6 +3259,22 @@
             "tags": [
                 "GodPVE"
             ]
+        },
+        {
+            "description": "",
+            "hash": 2831259642,
+            "name": "Darkest Before",
+            "plugs": [
+                [
+                    4245865861
+                ],
+                [
+                    2675184851
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
         }
     ]
 }

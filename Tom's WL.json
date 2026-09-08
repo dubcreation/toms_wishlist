@@ -3147,6 +3147,38 @@
             "tags": [
                 "GodPVP"
             ]
+        },
+        {
+            "description": "",
+            "hash": 357669417,
+            "name": "Whatchamacallit",
+            "plugs": [
+                [
+                    1771736209
+                ],
+                [
+                    639190697
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 381446446,
+            "name": "Elsie's Rifle",
+            "plugs": [
+                [
+                    2541826827
+                ],
+                [
+                    1926441324
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
         }
     ]
 }

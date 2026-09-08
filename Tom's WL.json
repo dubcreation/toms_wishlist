@@ -3179,6 +3179,86 @@
             "tags": [
                 "GodPVE"
             ]
+        },
+        {
+            "description": "",
+            "hash": 979721268,
+            "name": "Malediction",
+            "plugs": [
+                [
+                    1771736209
+                ],
+                [
+                    2923251173
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 140914741,
+            "name": "Adjudicator",
+            "plugs": [
+                [
+                    4245865861
+                ],
+                [
+                    288411554
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2223968549,
+            "name": "Ouster Engine",
+            "plugs": [
+                [
+                    3696140595
+                ],
+                [
+                    598607952
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2831259643,
+            "name": "Relentless",
+            "plugs": [
+                [
+                    3244229373
+                ],
+                [
+                    102912326
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1529367715,
+            "name": "Bonechiller",
+            "plugs": [
+                [
+                    2541826827
+                ],
+                [
+                    4196156997
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
         }
     ]
 }

@@ -3275,6 +3275,38 @@
             "tags": [
                 "GodPVE"
             ]
+        },
+        {
+            "description": "",
+            "hash": 1091550016,
+            "name": "Prosecutor",
+            "plugs": [
+                [
+                    169755979
+                ],
+                [
+                    956288240
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1567585973,
+            "name": "Judgment",
+            "plugs": [
+                [
+                    1906147653
+                ],
+                [
+                    2422968039
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
         }
     ]
 }

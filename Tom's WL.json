@@ -3307,6 +3307,54 @@
             "tags": [
                 "GodPVE"
             ]
+        },
+        {
+            "description": "",
+            "hash": 2863808104,
+            "name": "Trendsetter",
+            "plugs": [
+                [
+                    511499160
+                ],
+                [
+                    2633604463
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 775830132,
+            "name": "Sorrow's Verse",
+            "plugs": [
+                [
+                    4245865861
+                ],
+                [
+                    1906147653
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 856316142,
+            "name": "Coriolis Force",
+            "plugs": [
+                [
+                    3797647183
+                ],
+                [
+                    2799030358
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
         }
     ]
 }

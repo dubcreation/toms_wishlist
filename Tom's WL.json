@@ -3371,6 +3371,54 @@
             "tags": [
                 "GodPVP"
             ]
+        },
+        {
+            "description": "",
+            "hash": 944708986,
+            "name": "Hero of Ages",
+            "plugs": [
+                [
+                    1906147653
+                ],
+                [
+                    598607952
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 386864872,
+            "name": "Eyasluna",
+            "plugs": [
+                [
+                    4196156997
+                ],
+                [
+                    1171887445
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1648948519,
+            "name": "1000 Yard Stare",
+            "plugs": [
+                [
+                    3418165135
+                ],
+                [
+                    4116820839
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
         }
     ]
 }

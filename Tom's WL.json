@@ -3355,6 +3355,22 @@
             "tags": [
                 "GodPVE"
             ]
+        },
+        {
+            "description": "",
+            "hash": 1518956169,
+            "name": "Matador 64",
+            "plugs": [
+                [
+                    494941759
+                ],
+                [
+                    3955464425
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
         }
     ]
 }

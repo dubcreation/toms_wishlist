@@ -3419,6 +3419,22 @@
             "tags": [
                 "GodPVE"
             ]
+        },
+        {
+            "description": "",
+            "hash": 324584912,
+            "name": "Ogma PR6",
+            "plugs": [
+                [
+                    1906147653
+                ],
+                [
+                    2675361166
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
         }
     ]
 }

@@ -3435,6 +3435,22 @@
             "tags": [
                 "GodPVE"
             ]
+        },
+        {
+            "description": "",
+            "hash": 702001725,
+            "name": "Auric Disabler",
+            "plugs": [
+                [
+                    102912326
+                ],
+                [
+                    639190697
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
         }
     ]
 }

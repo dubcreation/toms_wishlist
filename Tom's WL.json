@@ -3451,6 +3451,86 @@
             "tags": [
                 "GodPVE"
             ]
+        },
+        {
+            "description": "",
+            "hash": 2033531689,
+            "name": "Midnight Coup",
+            "plugs": [
+                [
+                    1183436451
+                ],
+                [
+                    288411554
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1405095983,
+            "name": "Adored",
+            "plugs": [
+                [
+                    2073244114
+                ],
+                [
+                    1370847713
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3104013318,
+            "name": "Occluded Finality",
+            "plugs": [
+                [
+                    573122728
+                ],
+                [
+                    1370847713
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2191451996,
+            "name": "Perfect Pitch",
+            "plugs": [
+                [
+                    4245865861
+                ],
+                [
+                    956288240
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1692109318,
+            "name": "Salvager's Salvo",
+            "plugs": [
+                [
+                    598607952
+                ],
+                [
+                    1720528630
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
         }
     ]
 }

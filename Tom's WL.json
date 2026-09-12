@@ -3531,6 +3531,22 @@
             "tags": [
                 "GodPVE"
             ]
+        },
+        {
+            "description": "",
+            "hash": 1713388226,
+            "name": "Ascendancy",
+            "plugs": [
+                [
+                    3878366039
+                ],
+                [
+                    598607952
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
         }
     ]
 }
